@@ -1,4 +1,4 @@
 
-# OM|ANDROID
+# OM.ANDROID
 
-Android core library.
+Android web application core.
