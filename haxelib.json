@@ -1,7 +1,7 @@
 {
     "name": "om.android",
     "version": "0.0.0",
-    "description": "Android web application core",
+    "description": "Android support library",
     "tags": ["om","android"],
     "url": "https://github.com/tong/om.android",
     "license": "OM",
