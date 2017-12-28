@@ -1,1 +1,4 @@
 -D om_android
+-D android
+-cp src
+--macro om.android.Lib.build()

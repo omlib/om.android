@@ -1,7 +1,2 @@
-_*
-bin/
 doc/
-gen/
-res/
-local.properties
-example/*.js
+example/*.js*
